@@ -12,12 +12,12 @@ class palindrome
         string str_Reverse=new string(arr);
         if(str.Equals(str_Reverse))
         {
-            Console.WriteLine("This is string palindrome");
+            Console.WriteLine(" string palindrome");
 
         }
         else
         {
-            Console.WriteLine("This is not palindrome");
+            Console.WriteLine(" Not palindrome");
 
             Console.ReadLine();
     }
