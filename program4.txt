@@ -1,0 +1,24 @@
+namespace readonly_variable;  //runtime constant
+
+class math
+{
+    public static readonly double pi;
+    public static readonly double tan45;
+
+    static math()
+    {
+
+        pi = 3.14;
+        tan45 = 1.0;
+
+    }
+    public static void Main()
+    {
+        
+    
+            Console.WriteLine(pi);
+         Console.WriteLine(tan45);
+        
+
+    }
+}
