@@ -1,0 +1,18 @@
+using System;
+namespace const_variable;
+
+class demo
+{
+
+
+
+
+    public static void Main()
+    {
+        const string a = "ANKITA";
+        const string b= "SINGH";
+        Console.WriteLine(a);
+        Console.WriteLine(b);
+
+    }
+}
