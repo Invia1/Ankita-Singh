@@ -9,8 +9,8 @@ class demo
 
     public static void Main()
     {
-        const string a = "ANKITA";
-        const string b= "SINGH";
+        const string company name = "ANKITA";
+        const string location = "GR.NOIDA";
         Console.WriteLine(a);
         Console.WriteLine(b);
 
