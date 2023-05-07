@@ -1,12 +1,9 @@
 using System;
 namespace static_variable;
 
-
 class demo
 {
-Q3)
-
-   public  static int a = 10;
+  public  static int a = 10;
     
 }
 class demo1
