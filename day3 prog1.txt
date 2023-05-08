@@ -1,0 +1,17 @@
+using System;
+namespace Var_keyword;
+class DemoTutorial
+{
+    string mathematics;
+    double pi;
+
+
+
+    public static void Main()
+    {
+        var o = new DemoTutorial(); //var keyword
+        o.mathematics = "Math";
+
+        Console.WriteLine(o.mathematics);
+    }
+}
