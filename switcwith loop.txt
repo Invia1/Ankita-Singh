@@ -1,24 +1,13 @@
-unamespace Switchwithloop
+using System;
+
+namespace Switchwithloop
 {
+    //case1: factorial of a number
     class calculate
     {
-       
-
-
-        public static void Main()
+        static void factorial()
         {
-            int n=3; 
-            Console.WriteLine("enter number");
-            n = Convert.ToInt32(Console.ReadLine());
-            switch (n)
-            {
-            Console.WriteLine(1);
-            Console.WriteLine(2);
-            Console.WriteLine(3);
-
-             case 1:    //factorial
-
-             int num;
+            int num;
             int fact = 1;
             Console.WriteLine("Enter number");
             num = Convert.ToInt32(Console.ReadLine());
@@ -32,42 +21,152 @@ unamespace Switchwithloop
             Console.WriteLine("fact of number  number is:" + fact);
             Console.ReadLine();
 
-            }
-            
-           break;
 
-        case  2: //fibonacci
-         int num, a = 0, b = 1;
 
-        static void math(int fibonacci)
+        }
+        //case 2 : print fibonacci series
+        static void fibonacci()
         {
-            int num, a = 0, b = 1,c;
+            int num, a = 0, b = 1, c;
 
 
             Console.WriteLine("Enter the number");
             num = Convert.ToInt32(Console.ReadLine());
 
-            for(int i=0; i<=num;i++)
+            for (int i = 0; i <= num; i++)
             {
                 c = a + b;
-                Console.WriteLine(c+"");
+                Console.WriteLine(c + "");
                 a = b;
                 b = a;
-                
+
 
             }
+        }
+        //case 3 prime no or not......??
+        static void primeno(int n = 5, int a = 0)
+        {
+            // int n = 5, a = 0;
+            for (int i = 1; i <= n; i++)
+            {
+                if (n % 1 == 0)
+                {
+                    a++;
+                }
+            }
+            if (a == 2)
+
+                Console.WriteLine("(0) is a prime num");
+
+            else
+
+                Console.WriteLine("Not a prime num");
 
 
+            Console.ReadLine();
 
+        }
+        static void switchcase()
+        {
+            int num;
+            Console.WriteLine("Enter your choice");
+            Console.WriteLine("press 1 for factorial");
+            Console.WriteLine("press 2 for fibonaci");
+            Console.WriteLine("press 3 for prime no ");
+            num = Convert.ToInt32(Console.ReadLine());
+            int choice = Convert.ToInt32(Console.ReadLine());
+
+
+            switch (choice)
+
+            {
+                case 1:
+
+                    Console.WriteLine("Enter your number");
+                    Convert.ToInt32(Console.ReadLine());
+                    factorial();
+                    break;
+
+                case 2:
+
+                    Console.WriteLine("Enter your number");
+                    Convert.ToInt32(Console.ReadLine());
+                    fibonacci();
+                    break;
+
+                case 3:
+
+                    Console.WriteLine("Enter your number");
+                    Convert.ToInt32(Console.ReadLine());
+                    primeno();
+                    break;
+
+
+                default:
+
+                    Console.WriteLine("repeat step 1");
+
+                    break;
+
+
+            }
+        }
+            public static void Main()
+            {
+            var o = new calculate();
+            string str;
+            ;
+            do
+            { 
+            
+                o.switchcase();
+
+                Console.WriteLine("for Restart press ok");
+                str = Console.ReadLine();
+                }
+            
+
+            while (str == "yes");
 
 
         }
+
+
+    }  
+    } 
 
 
         
-        }
-    }
+
     
 
 
-           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
