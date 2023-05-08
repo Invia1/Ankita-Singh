@@ -1,0 +1,25 @@
+using System;
+namespace Switchwithloop
+{
+     class calculate
+    {
+        //int num;
+        public static void Main()
+        {
+            int num;
+            int fact = 1;
+            Console.WriteLine("Enter number");
+            num = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i<=num; i++)
+
+            {
+
+                fact = fact * i;
+
+            }
+            Console.WriteLine("fact of number  number is:" + fact);
+            Console.ReadLine();
+
+        }
+    }
+}
