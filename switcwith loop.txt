@@ -1,16 +1,28 @@
-using System;
-namespace Switchwithloop
+unamespace Switchwithloop
 {
-     class calculate
+    class calculate
     {
-        //int num;
+       
+
+
         public static void Main()
         {
-            int num;
+            int n=3; 
+            Console.WriteLine("enter number");
+            n = Convert.ToInt32(Console.ReadLine());
+            switch (n)
+            {
+            Console.WriteLine(1);
+            Console.WriteLine(2);
+            Console.WriteLine(3);
+
+             case 1:    //factorial
+
+             int num;
             int fact = 1;
             Console.WriteLine("Enter number");
             num = Convert.ToInt32(Console.ReadLine());
-            for (int i = 1; i<=num; i++)
+            for (int i = 1; i <= num; i++)
 
             {
 
@@ -20,6 +32,42 @@ namespace Switchwithloop
             Console.WriteLine("fact of number  number is:" + fact);
             Console.ReadLine();
 
+            }
+            
+           break;
+
+        case  2: //fibonacci
+         int num, a = 0, b = 1;
+
+        static void math(int fibonacci)
+        {
+            int num, a = 0, b = 1,c;
+
+
+            Console.WriteLine("Enter the number");
+            num = Convert.ToInt32(Console.ReadLine());
+
+            for(int i=0; i<=num;i++)
+            {
+                c = a + b;
+                Console.WriteLine(c+"");
+                a = b;
+                b = a;
+                
+
+            }
+
+
+
+
+
+        }
+
+
+        
         }
     }
-}
+    
+
+
+           
