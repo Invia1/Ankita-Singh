@@ -1,0 +1,63 @@
+using System;
+using System.IO.Pipes;
+
+class Bank
+{
+    int account_no; //private
+    string Bankname;  //private
+
+
+    //Achieved Encapsulation using Properties
+    public int paccount_No
+    {
+
+        get
+        {
+            return account_no;
+        }
+
+        set
+        {
+            account_no = value;
+        }
+    }
+
+
+          public string pBankname
+          {
+
+        get
+        {
+            return Bankname;
+        }
+
+        set
+        {
+            Bankname = value; //value is a keyword acts as a temporary var.
+        }
+            }
+}
+
+class BankDetails
+{
+    public void BankInfo()
+    {
+        Bank obj = new Bank();
+        obj.paccount_No = 123456;
+        obj.pBankname="ABC Bank";
+        Console.WriteLine(obj.paccount_No);
+        Console.WriteLine(obj.pBankname);
+
+        obj.pBankname ="ABC";
+    }
+}
+class customer
+{
+    public static void Main()
+    {
+        var Bdetails = new BankDetails();
+        Bdetails.BankInfo();
+        
+
+    }
+}
