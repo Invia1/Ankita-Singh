@@ -1,0 +1,97 @@
+using System;
+namespace Shopping;
+
+class Bank
+{
+
+   // public string Mname, Mlocation;
+    int amount; //private
+    string Bankname;  //private
+
+
+
+    //Achieved Encapsulation using Properties
+    public int pamount
+    {
+
+        get
+        {
+            return amount;
+        }
+
+        set
+        {
+            amount= value;
+
+            if (pamount < 10000)
+            {
+                Console.WriteLine("stay at home....!!!");
+
+            }
+            else
+            {
+                Console.WriteLine("go for shopping....yeah!!!");
+            }
+        }
+    }
+
+
+    public string pBankname
+    {
+
+        get
+        {
+            return Bankname;
+        }
+
+        set
+        {
+            Bankname = value; //value is a keyword acts as a temporary var.
+        }
+    }
+}
+
+class MallDetails
+{
+
+    public string Mname, Mlocation;
+    public void BankInfo()
+    {
+        Bank obj = new Bank();
+       // obj.pamount = 100000;
+        obj.pBankname = "ABC Bank";
+       // Console.WriteLine(obj.pamount);
+        Console.WriteLine(obj.pBankname);
+
+        obj.pBankname = "ABC";
+
+
+    }
+    public void Mallinfo()
+    {
+
+        MallDetails obj = new MallDetails();
+        obj.Mname = "GIP mall";
+        obj.Mlocation = "Noida";
+        Console.WriteLine(obj.Mname);
+        Console.WriteLine(obj.Mlocation);
+
+       // if(pamount<10000)
+       // {
+         //   Console.WriteLine("stay at home....!!!");
+        //}
+
+    }
+}
+class customer
+{
+    public static void Main()
+    {
+        var mdetails = new MallDetails();
+        mdetails.Mallinfo();
+
+        mdetails.BankInfo();
+
+
+    }
+}
