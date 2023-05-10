@@ -1,0 +1,41 @@
+using System;
+namespace mall;
+
+class gipmall
+{
+
+    object[] availableitem=new object[5];
+
+    public object this[int i]
+    {
+        get
+        {
+            return availableitem[i];
+        }
+        set
+        {
+            availableitem[i] = value;
+        }
+    }
+
+    class malldetails
+
+    {
+
+        public static void Main()
+        {
+
+
+            gipmall obj = new  gipmall();
+            obj[1] = "grocery section";
+            obj[2] = "toy section";
+            obj[3] = "ethnic wear section";
+            obj[4] = "fashionable";
+            Console.WriteLine(obj[1] + " " + obj[2] + " " + obj[3] + " " + obj[4]);
+         
+
+
+        }
+    }
+
+}
