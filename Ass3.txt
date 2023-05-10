@@ -4,7 +4,7 @@ namespace Shopping;
 class Bank
 {
 
-   // public string Mname, Mlocation;
+    public string Mname, Mlocation ;
     int amount; //private
     string Bankname;  //private
 
@@ -21,12 +21,15 @@ class Bank
 
         set
         {
-            amount= value;
+            Console.WriteLine("Enter amount");
+            amount = Convert.ToInt32(Console.ReadLine());
 
-            if (pamount < 10000)
+            amount = value;
+
+            if (amount > 10000)
             {
                 Console.WriteLine("stay at home....!!!");
-
+               
             }
             else
             {
@@ -58,9 +61,9 @@ class MallDetails
     public void BankInfo()
     {
         Bank obj = new Bank();
-       // obj.pamount = 100000;
+        obj.pamount = 100000;
         obj.pBankname = "ABC Bank";
-       // Console.WriteLine(obj.pamount);
+       Console.WriteLine(obj.pamount);
         Console.WriteLine(obj.pBankname);
 
         obj.pBankname = "ABC";
@@ -76,10 +79,6 @@ class MallDetails
         Console.WriteLine(obj.Mname);
         Console.WriteLine(obj.Mlocation);
 
-       // if(pamount<10000)
-       // {
-         //   Console.WriteLine("stay at home....!!!");
-        //}
 
     }
 }
@@ -92,6 +91,6 @@ class customer
 
         mdetails.BankInfo();
 
-
+}
     }
 }
