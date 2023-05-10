@@ -1,0 +1,36 @@
+
+using System;
+
+namespace Day5;
+class person
+
+    //indexing
+{
+    object[] folder = new object[4];      //folder is an array of object.
+     
+    public object this[int i]
+    {
+        get
+        {
+            return folder[i];
+        }
+        set
+        {
+            folder[i] = value;
+        }
+    }
+    
+}
+class persondetails
+{
+    public static void Main()
+    {
+        person obj = new person();
+        obj[0] = "mydata";
+        obj[1] = "Doc";
+        obj[2] = "images";
+        obj[3] = "Recyclebin";
+.
+        Console.WriteLine(obj[0]+" "+ obj[1]+ " "+ obj[2]+" "+ obj[3]);
+    }
+}
