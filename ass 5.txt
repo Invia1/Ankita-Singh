@@ -1,133 +1,60 @@
 using System;
 using System.Collections;
-//using System.Linq.Enumerable;
+
 
 namespace ass5;
-class dataentrycontact
+class dataentry
 {
     ArrayList objc = new ArrayList();
+  
 
     public void adddata()
     {
         objc.Add("Ankita");
-        objc.Add("sona");
-        objc.Add("ankii");
-        objc.Add("ankitasonam");
+        objc.Add("111");
+        objc.Add("ankii.123@gmail.com");
+        objc.Add("noida");
 
         foreach (var temp in objc)
         {
-            Console.WriteLine(temp);
+            Console.WriteLine( temp + " ");
         }
 
     }
-   
+
     public void dltdata()
     {
-        objc.RemoveAt(3);
-        objc.RemoveAt(2);
+        objc.Remove("111");
+        objc.Remove("noida");
 
 
         foreach (var temp in objc)
         {
-            Console.WriteLine(temp);
+            Console.Write (temp + " ");
         }
     }
-    
-    public void reversedata()
-    {
-        objc.Reverse();
-        foreach (var temp in objc)
-        {
-            Console.WriteLine(temp);
-        }
 
-    }
+  
     public void insertdata()
     {
-        objc.Insert(1, "AnkitaSingh");
+        objc.Insert(0, "AnkitaSingh");
         foreach (var temp in objc)
         {
-            Console.WriteLine(temp);
+            Console.WriteLine(temp + " ");
         }
 
     }
 
-    static void switchcase()
+
+
+    public static void Main()
     {
-        int num;
-        Console.WriteLine("Enter your choice");
-        Console.WriteLine("press 1 for adddata");
-        Console.WriteLine("press 2 for dltdata");
-        Console.WriteLine("press 3 for reversedata ");
-        Console.WriteLine("press 4 for insertdata ");
-        num = Convert.ToInt32(Console.ReadLine());
-        int choice = Convert.ToInt32(Console.ReadLine());
+        var o = new dataentry();
 
-
-        switch (choice)
-
-        {
-            case 1:
-
-                Console.WriteLine("Enter your number");
-                Convert.ToInt32(Console.ReadLine());
-                adddata();
-
-
-                break;
-
-            case 2:
-
-                Console.WriteLine("Enter your number");
-                Convert.ToInt32(Console.ReadLine());
-                dltdata();
-
-
-                break;
-
-            case 3:
-
-                Console.WriteLine("Enter your number");
-                Convert.ToInt32(Console.ReadLine());
-                reversedata();
-                break;
-
-
-            case 4:
-
-                Console.WriteLine("Enter your number");
-                Convert.ToInt32(Console.ReadLine());
-                insertdata();
-
-
-                break;
-        }
-
-        public static void Main()
-        {
-            var o = new dataentrycontact();
-            string str;
-            ;
-            do
-            {
-
-                o.switchcase();
-
-                Console.WriteLine("for Restart press ok");
-                str = Console.ReadLine();
-            }
-
-
-            while (str == "yes");
-            {
-
-            }
-
-
-        }
+        o.adddata();
+        o.dltdata();
+        o.insertdata();
 
     }
-
 }
-
 
