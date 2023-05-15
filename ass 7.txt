@@ -3,12 +3,12 @@ using System.Collections.Generic;
 class Ass7
 {
 
-List<string> l =new List<string>();
-public  void  insert(string name)
+    List<string> l = new List<string>();
+    public void insert(string name)
     {
-        l.Add("name");
+        l.Add(name);
     }
-    public void update( string lastname,string newname)
+    public void update(string lastname, string newname)
     {
         l.Remove(lastname);
         l.Add(newname);
@@ -17,15 +17,24 @@ public  void  insert(string name)
     {
         l.Clear();
     }
-    public void search(string name) 
+    public void search(string name)
     {
-        l.Contains(name);
+       bool a= l.Contains(name);
+
+        if(a)
+        {
+            Console.WriteLine("name found");
+        }
+        else
+        {
+            Console.WriteLine("Not Found");
+        }
     }
     public void display()
     {
-        foreach(string s in l) 
+        foreach (string s in l)
         {
-            Console.WriteLine( "display data");
+            Console.WriteLine("display data:" +s);
         }
     }
 
@@ -34,45 +43,79 @@ class Demo
 {
     public static void Main()
     {
+        int num;
+        num = Convert.ToInt32(Console.ReadLine());
 
         Ass7 obj = new Ass7();
-        int num;
-        string name;
-            switch(num)
+
+        do
+        {
+        Label:
+            Console.WriteLine("Ifyou want to insert data then, press 1 ");
+            Console.WriteLine("Ifyou want to update data then, press 2 ");
+            Console.WriteLine("Ifyou want to delete data then, press 3 ");
+            Console.WriteLine("Ifyou want to search data then, press 4 ");
+            Console.WriteLine("Ifyou want to display data then, press 5 ");
+
+            if (num >= 0 && num <= 5)
             {
-            
-            case 1:
-                Console.WriteLine("enter a name which you want to add");
-               name= Console.ReadLine();
-                    obj.insert(name);
-                break;
-            case 2:
-                Console.WriteLine("enter a name which you want to update");
-              Console.WriteLine("enter last name ");
-                string lastname = Console.ReadLine();
-                Console.WriteLine("enter new name ");
-                string newname = Console.ReadLine();
-                obj.update(lastname,newname);
-                break;
-
-            case 3:
-                Console.WriteLine("enter a name which you want to delete");
-                name = Console.ReadLine();
-                obj.delete(name);
-                break;
 
 
-            case 5:
-                Console.WriteLine("enter a name which you want to display");
-                //name = Console.ReadLine();
-                obj.display();
-                break;
+
+
+                string name;
+                switch (num)
+                {
+
+
+                    case 1:
+                        Console.WriteLine("enter a name which you want to add");
+                        name = Console.ReadLine();
+                        obj.insert(name);
+                        break;
+
+                    case 2:
+                        Console.WriteLine("enter a name which you want to update");
+                        Console.WriteLine("enter last name ");
+                        string lastname = Console.ReadLine();
+                        Console.WriteLine("enter new name ");
+                        string newname = Console.ReadLine();
+                        obj.update(lastname, newname);
+                        break;
+
+                    case 3:
+                        Console.WriteLine("enter a name which you want to delete");
+                        name = Console.ReadLine();
+                        obj.delete(name);
+                        break;
+
+                    case 4:
+                        Console.WriteLine("enter a name which you want to search");
+                        name = Console.ReadLine();
+                        obj.search(name);
+                        break;
+
+
+                    case 5:
+                        obj.display();
+                        break;
+
+                }
+            }
+            else
+            {
+                goto Label;
+
+            }
+            } while (true) ;
+
+
         }
 
-            
+        
 
 
     }
-    
-}
+
+
 
