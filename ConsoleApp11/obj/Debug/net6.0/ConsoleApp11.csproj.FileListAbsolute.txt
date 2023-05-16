@@ -1,0 +1,15 @@
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\Rukmesh\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
