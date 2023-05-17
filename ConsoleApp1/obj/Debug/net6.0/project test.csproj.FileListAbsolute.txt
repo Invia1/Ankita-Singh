@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\project test.exe
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\project test.deps.json
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\project test.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\project test.dll
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\project test.pdb
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.dll
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\project test.dll
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.pdb
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\project test.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\project test.dll
