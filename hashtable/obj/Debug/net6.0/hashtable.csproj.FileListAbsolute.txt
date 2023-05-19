@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\bin\Debug\net6.0\hashtable.exe
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\bin\Debug\net6.0\hashtable.deps.json
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\bin\Debug\net6.0\hashtable.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\bin\Debug\net6.0\hashtable.dll
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\bin\Debug\net6.0\hashtable.pdb
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.dll
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\refint\hashtable.dll
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.pdb
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\hashtable.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\hashtable\hashtable\obj\Debug\net6.0\ref\hashtable.dll
