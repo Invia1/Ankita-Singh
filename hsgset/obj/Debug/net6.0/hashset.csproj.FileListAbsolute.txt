@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\bin\Debug\net6.0\hashset.exe
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\bin\Debug\net6.0\hashset.deps.json
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\bin\Debug\net6.0\hashset.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\bin\Debug\net6.0\hashset.dll
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\bin\Debug\net6.0\hashset.pdb
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.dll
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\refint\hashset.dll
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.pdb
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\hashset.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\hsgset\hsgset\obj\Debug\net6.0\ref\hashset.dll
