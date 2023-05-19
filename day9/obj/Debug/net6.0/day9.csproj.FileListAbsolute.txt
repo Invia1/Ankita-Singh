@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\day9\day9\bin\Debug\net6.0\day9.exe
+C:\Users\Invia-ILC\source\repos\day9\day9\bin\Debug\net6.0\day9.deps.json
+C:\Users\Invia-ILC\source\repos\day9\day9\bin\Debug\net6.0\day9.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\day9\day9\bin\Debug\net6.0\day9.dll
+C:\Users\Invia-ILC\source\repos\day9\day9\bin\Debug\net6.0\day9.pdb
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.dll
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\refint\day9.dll
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.pdb
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\day9.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\day9\day9\obj\Debug\net6.0\ref\day9.dll
