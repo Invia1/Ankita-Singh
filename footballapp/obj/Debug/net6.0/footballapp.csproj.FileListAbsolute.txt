@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\bin\Debug\net6.0\footballapp.exe
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\bin\Debug\net6.0\footballapp.deps.json
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\bin\Debug\net6.0\footballapp.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\bin\Debug\net6.0\footballapp.dll
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\bin\Debug\net6.0\footballapp.pdb
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.dll
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\refint\footballapp.dll
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.pdb
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\footballapp.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\footballapp\footballapp\obj\Debug\net6.0\ref\footballapp.dll
