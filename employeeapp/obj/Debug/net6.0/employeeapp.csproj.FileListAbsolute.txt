@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\employeeapp.exe
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\employeeapp.deps.json
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\employeeapp.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\employeeapp.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\employeeapp.pdb
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\refint\employeeapp.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.pdb
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\employeeapp.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\ref\employeeapp.dll
