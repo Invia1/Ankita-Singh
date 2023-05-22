@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\linq where clause.exe
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\linq where clause.deps.json
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\linq where clause.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\linq where clause.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\bin\Debug\net6.0\linq where clause.pdb
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\refint\linq where clause.dll
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.pdb
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\linq where clause.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\employeeapp\employeeapp\obj\Debug\net6.0\ref\linq where clause.dll
