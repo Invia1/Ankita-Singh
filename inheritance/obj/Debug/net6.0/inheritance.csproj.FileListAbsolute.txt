@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\inheritance\inheritance\obj\Debug\net6.0\ref\inheritance.dll
