@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\predicate\predicate\bin\Debug\net6.0\predicate.exe
+C:\Users\Invia-ILC\source\repos\predicate\predicate\bin\Debug\net6.0\predicate.deps.json
+C:\Users\Invia-ILC\source\repos\predicate\predicate\bin\Debug\net6.0\predicate.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\predicate\predicate\bin\Debug\net6.0\predicate.dll
+C:\Users\Invia-ILC\source\repos\predicate\predicate\bin\Debug\net6.0\predicate.pdb
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.dll
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\refint\predicate.dll
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.pdb
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\predicate.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\predicate\predicate\obj\Debug\net6.0\ref\predicate.dll
