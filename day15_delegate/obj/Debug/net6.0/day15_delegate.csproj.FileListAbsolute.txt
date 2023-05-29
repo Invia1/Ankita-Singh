@@ -1,0 +1,15 @@
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\bin\Debug\net6.0\day15_delegate.exe
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\bin\Debug\net6.0\day15_delegate.deps.json
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\bin\Debug\net6.0\day15_delegate.runtimeconfig.json
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\bin\Debug\net6.0\day15_delegate.dll
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\bin\Debug\net6.0\day15_delegate.pdb
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.csproj.AssemblyReference.cache
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.AssemblyInfoInputs.cache
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.AssemblyInfo.cs
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.csproj.CoreCompileInputs.cache
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.dll
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\refint\day15_delegate.dll
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.pdb
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\day15_delegate.genruntimeconfig.cache
+C:\Users\Invia-ILC\source\repos\day15_delegate\day15_delegate\obj\Debug\net6.0\ref\day15_delegate.dll
